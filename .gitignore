@@ -1,0 +1,4 @@
+NoiseReduction/bin/*
+NoiseReduction/obj/*
+NoiseReduction/*.cbp
+NoiseReduction/*.depend
