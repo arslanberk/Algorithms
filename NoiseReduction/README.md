@@ -5,7 +5,7 @@
 # Attention
 To see correct results on terminal window, it is needed to follow these requirements on Windows Command Prompt;
 - Screen buffer size: width - 121 , height - 1000
-- Windows size: width - 121 , height - 60 
+- Window size: width - 121 , height - 60 
 - Font: Consolas 
 - Font Size: 14
 - g++ for makefile
